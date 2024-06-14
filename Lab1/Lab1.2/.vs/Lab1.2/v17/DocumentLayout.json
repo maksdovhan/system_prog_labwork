@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab1\\Lab1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07D39F6-5108-4919-B432-6EE10BA48B40}|Lab1.2.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab1\\Lab1.2\\Lab1_cpuid.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A07D39F6-5108-4919-B432-6EE10BA48B40}|Lab1.2.vcxproj|solutionrelative:Lab1_cpuid.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1_cpuid.asm",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab1\\Lab1.2\\Lab1_cpuid.asm",
+              "RelativeDocumentMoniker": "Lab1_cpuid.asm",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab1\\Lab1.2\\Lab1_cpuid.asm",
+              "RelativeToolTip": "Lab1_cpuid.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-13T19:00:27.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
