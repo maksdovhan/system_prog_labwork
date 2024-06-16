@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\module.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|solutionrelative:module.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\module.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|solutionrelative:module.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\main5.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|solutionrelative:main5.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\longop.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|solutionrelative:longop.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\longop.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2F0F735-9A97-4203-8790-FB402046A229}|Lab5.vcxproj|solutionrelative:longop.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "module.inc",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\module.inc",
+              "RelativeDocumentMoniker": "module.inc",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\module.inc",
+              "RelativeToolTip": "module.inc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T16:39:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "module.asm",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\module.asm",
+              "RelativeDocumentMoniker": "module.asm",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\module.asm",
+              "RelativeToolTip": "module.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T16:39:12.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main5.asm",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\main5.asm",
+              "RelativeDocumentMoniker": "main5.asm",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\main5.asm",
+              "RelativeToolTip": "main5.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T16:39:11.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "longop.inc",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\longop.inc",
+              "RelativeDocumentMoniker": "longop.inc",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\longop.inc",
+              "RelativeToolTip": "longop.inc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T16:39:11.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "longop.asm",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\longop.asm",
+              "RelativeDocumentMoniker": "longop.asm",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab5\\longop.asm",
+              "RelativeToolTip": "longop.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T16:39:11.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
