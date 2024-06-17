@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{027266E6-7AA4-4922-8714-C31E5BAA2AAB}|Lab7.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\main7.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{027266E6-7AA4-4922-8714-C31E5BAA2AAB}|Lab7.vcxproj|solutionrelative:main7.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027266E6-7AA4-4922-8714-C31E5BAA2AAB}|Lab7.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\module.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{027266E6-7AA4-4922-8714-C31E5BAA2AAB}|Lab7.vcxproj|solutionrelative:module.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027266E6-7AA4-4922-8714-C31E5BAA2AAB}|Lab7.vcxproj|C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\module.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{027266E6-7AA4-4922-8714-C31E5BAA2AAB}|Lab7.vcxproj|solutionrelative:module.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "module.inc",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\module.inc",
+              "RelativeDocumentMoniker": "module.inc",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\module.inc",
+              "RelativeToolTip": "module.inc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-17T00:25:01.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "module.asm",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\module.asm",
+              "RelativeDocumentMoniker": "module.asm",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\module.asm",
+              "RelativeToolTip": "module.asm",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-17T00:25:22.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main7.asm",
+              "DocumentMoniker": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\main7.asm",
+              "RelativeDocumentMoniker": "main7.asm",
+              "ToolTip": "C:\\Users\\MaksDovgan\\Desktop\\system_programming\\Lab7\\main7.asm",
+              "RelativeToolTip": "main7.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-17T00:26:01.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
